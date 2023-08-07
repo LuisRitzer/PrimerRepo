@@ -5,9 +5,9 @@ Modified :jack_o_lantern:
 Staged :basketball:
 committed :sparkles:
 
-Working directory 😀
++**Working directory 😀**
 
-Staging Area 😆
++**Staging Area 😆**
 
-Repository 😇
++**Repository 😇**
 
