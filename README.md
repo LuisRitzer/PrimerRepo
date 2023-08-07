@@ -2,9 +2,9 @@
 
 ## Status
 
-+**Working directory 😀**
++ ***Working directory 😀***
 
-+**Staging Area 😆**
++ ***Staging Area 😆***
 
-+**Repository 😇**
++ ***Repository 😇***
 
