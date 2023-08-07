@@ -6,14 +6,11 @@ Repository 😇
 =======
 
 ## Status
-Modified :jack_o_lantern:
-Staged :basketball:
-committed :sparkles:
 
-+**Working directory 😀**
++ ***Working directory 😀***
 
-+**Staging Area 😆**
++ ***Staging Area 😆***
 
-+**Repository 😇**
++ ***Repository 😇***
 
 >>>>>>> f27550f0ad6162d742daa468429bc6537d9ff5be
